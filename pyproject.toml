@@ -1,0 +1,10 @@
+[project]
+name = "procurement-docs-panel"
+version = "1.0.0"
+requires-python = ">=3.11"
+description = "Local procurement document demo with synthetic data"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-ra"

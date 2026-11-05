@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Панель спецификаций и КП</title>
+  <desc id="desc">Локальная демонстрация: заполните таблицу и получите спецификацию, коммерческое предложение или ОКК в XLSX и Word. Только вымышленные данные.</desc>
+  <rect width="1200" height="330" rx="18" fill="#08090a"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" fill="#edf2f7">
+    <text x="56" y="88" font-size="52" font-weight="650">Спецификации и КП</text>
+    <text x="56" y="137" font-size="28" fill="#a7b2bd">Ручной ввод. Явный НДС. Четыре документа.</text>
+    <path d="M56 176H1144" stroke="#39414a"/>
+    <text x="56" y="221" font-size="24" fill="#a7b2bd">Спецификация: прогрузка / изменение</text>
+    <text x="1035" y="221" font-size="26" fill="#ff8a40">XLSX</text>
+    <text x="56" y="272" font-size="24" fill="#a7b2bd">Коммерческое предложение / ОКК</text>
+    <text x="905" y="272" font-size="26" fill="#ff8a40">XLSX / Word</text>
+  </g>
+</svg>

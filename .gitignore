@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+generated/
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite*
+*.xlsx
+*.docx
+*.woff*
+.DS_Store

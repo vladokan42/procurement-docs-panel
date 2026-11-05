@@ -1,0 +1,6 @@
+[
+  {"article":"DEMO-001","name":"Демо-блокнот A5","manufacturer":"Учебная мастерская","barcode":"","weight_g":150,"pcs_per_box":10,"boxes_per_pallet":40,"boxes_per_row":8,"vat_rate":0,"price_no_vat":100,"suggested_price":100},
+  {"article":"DEMO-002","name":"Демо-набор карандашей","manufacturer":"Учебная мастерская","barcode":"","weight_g":80,"pcs_per_box":12,"boxes_per_pallet":50,"boxes_per_row":10,"vat_rate":0.1,"price_no_vat":50,"suggested_price":50},
+  {"article":"DEMO-003","name":"Демо-папка для документов","manufacturer":"Макет-фабрика","barcode":"","weight_g":200,"pcs_per_box":6,"boxes_per_pallet":30,"boxes_per_row":6,"vat_rate":0.2,"price_no_vat":125.5,"suggested_price":125.5},
+  {"article":"DEMO-004","name":"Демо-органайзер","manufacturer":"Макет-фабрика","barcode":"","weight_g":300,"pcs_per_box":4,"boxes_per_pallet":20,"boxes_per_row":5,"vat_rate":0.22,"price_no_vat":250,"suggested_price":250}
+]
